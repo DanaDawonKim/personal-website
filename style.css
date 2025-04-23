@@ -1,0 +1,25 @@
+
+body{
+    background: #ccd7fc;
+}
+
+h1,p,a{
+    color:#2e2b29;
+    text-align: center;
+    font-family:courier;
+}
+
+h2{
+    color:#2e2b29;
+    font-family:courier;
+}
+
+li{
+    font-size: large;
+    font-family:courier;
+    color:darkslateblue
+}
+
+img{
+    width: 500px
+}
